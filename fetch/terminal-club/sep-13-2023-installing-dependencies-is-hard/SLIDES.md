@@ -121,7 +121,7 @@ paging: "%d/%d"
 ## Bad
 - Multiple versions are controlled at the image level
 - OS, arch, system compatibility
-- Lots of space and resource
+- Lots of space and resources
 - Build from source when not available
 
 ---
@@ -157,7 +157,7 @@ paging: "%d/%d"
 
 ## [sdkman](https://sdkman.io/)
 ## [asdf](https://asdf-vm.com/)
-## [rtx](https://github.com/jdx/rtx)
+## [mise](https://github.com/jdx/mise) (formerly `rtx`)
 
 ---
 

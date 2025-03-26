@@ -1,0 +1,5 @@
+services:
+  nix:
+    build: .
+    volumes:
+      - "./demo:/src/demo"
